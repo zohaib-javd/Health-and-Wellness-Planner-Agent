@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Health & Wellness Agent
 
 A modular AI assistant built with the **OpenAI Agents SDK** — designed to help users set goals, plan meals, recommend workouts, schedule check-ins, and track progress, all via real-time CLI interaction.
@@ -93,12 +92,12 @@ HEALTH_WELLNESS_AGENT_MAIN/
 ![Meal Planner](screenshots/meal_planner_demo.png)
 
 ---
-
+```
 ## 🚀 Features
 
 | Feature                  | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| ✅ Tool-based Functions  | Modular tools with async integration                                        |
+| ✅ Tool-based Functions  | Modular tools with async integration                                       |
 | ✅ Guardrails            | Pydantic v2 models enforce safe user input                                 |
 | ✅ Streaming             | Prints assistant response token-by-token in CLI                            |
 | ✅ Context Retention     | User goals and info saved across tools via context                         |
@@ -106,6 +105,7 @@ HEALTH_WELLNESS_AGENT_MAIN/
 | ✅ Logging Hooks         | Lifecycle hooks track tool + agent execution                               |
 | ✅ Multi-Turn Capable    | Agents follow up in conversation, not just single-turn                     |
 
+```
 ---
 
 ## ✅ Submission Notes
@@ -125,6 +125,3 @@ HEALTH_WELLNESS_AGENT_MAIN/
 ---
 
 *Zohaib Javed*
-
-```
-```
