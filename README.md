@@ -95,18 +95,45 @@ HEALTH_WELLNESS_AGENT_MAIN/
 
 ## 🚀 Features
 
-```
-| Feature                  | Description                                                                 |
-|:-------------------------|:--------------------------------------------------------------------------- |
-| ✅ Tool-based Functions  | Modular tools with async integration                                       |
-| ✅ Guardrails            | Pydantic v2 models enforce safe user input                                 |
-| ✅ Streaming             | Prints assistant response token-by-token in CLI                            |
-| ✅ Context Retention     | User goals and info saved across tools via context                         |
-| ✅ Agent Switching       | Escalates to human coach (simulated handoff)                               |
-| ✅ Logging Hooks         | Lifecycle hooks track tool + agent execution                               |
-| ✅ Multi-Turn Capable    | Agents follow up in conversation, not just single-turn                     |
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #999; padding:8px;">Feature</th>
+      <th style="border:1px solid #999; padding:8px;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #999; padding:8px;">✅ Tool-based Functions</td>
+      <td style="border:1px solid #999; padding:8px;">Modular tools with async integration</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px;">✅ Guardrails</td>
+      <td style="border:1px solid #999; padding:8px;">Pydantic v2 models enforce safe user input</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px;">✅ Streaming</td>
+      <td style="border:1px solid #999; padding:8px;">Prints assistant responses token-by-token in CLI</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px;">✅ Context Retention</td>
+      <td style="border:1px solid #999; padding:8px;">User goals and info persisted across tools</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px;">✅ Agent Switching</td>
+      <td style="border:1px solid #999; padding:8px;">Escalates to a human coach (simulated handoff)</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px;">✅ Logging Hooks</td>
+      <td style="border:1px solid #999; padding:8px;">Lifecycle events track tool and agent execution</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #999; padding:8px;">✅ Multi‑Turn Capable</td>
+      <td style="border:1px solid #999; padding:8px;">Agents ask follow‑up questions, not just single-turn</td>
+    </tr>
+  </tbody>
+</table>
 
-```
 ---
 
 ## ✅ Submission Notes
