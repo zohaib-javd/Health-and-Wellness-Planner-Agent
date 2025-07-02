@@ -97,7 +97,7 @@ HEALTH_WELLNESS_AGENT_MAIN/
 
 ```
 | Feature                  | Description                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
+|:-------------------------|:--------------------------------------------------------------------------- |
 | ✅ Tool-based Functions  | Modular tools with async integration                                       |
 | ✅ Guardrails            | Pydantic v2 models enforce safe user input                                 |
 | ✅ Streaming             | Prints assistant response token-by-token in CLI                            |
