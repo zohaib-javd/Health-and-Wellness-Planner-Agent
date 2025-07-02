@@ -1,5 +1,5 @@
 # 🗂️ Project File Structure: Health & Wellness Agent
-
+```
 HEALTH_WELLNESS_AGENT_MAIN/
 │
 ├── .venv/                              # Python virtual environment (ignore)
@@ -38,3 +38,4 @@ HEALTH_WELLNESS_AGENT_MAIN/
 ├── README.md                           # Overview & instructions
 ├── uv.lock                             # Dependency lockfile
 ├── .gitignore
+```
