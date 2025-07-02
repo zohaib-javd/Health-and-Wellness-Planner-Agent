@@ -42,10 +42,10 @@ HEALTH_WELLNESS_AGENT_MAIN/
 
 1. **Clone the repo**
 
-```bash
+   ```bash
    git clone https://github.com/zohaib-javd/Health-and-Wellness-Planner-Agent.git
    cd HEALTH_WELLNESS_AGENT_MAIN
-````
+   ````
 
 2. **Set up environment with uv**
 
